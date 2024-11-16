@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @legabgob
 - 👀 I’m interested in bioinformatics, deep learning and other methods to study biological data
 - 🌱 I’m currently learning bioinformatics during my master's
-- 📫 How to reach me : right here
+- 📫 How to reach me : <a href="mailto:gabriel.chiche@unil.ch">right here</a>
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my only real skill is googling
 
