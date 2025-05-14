@@ -4,7 +4,7 @@
 - 📫 How to reach me : <a href="mailto:gabriel.chiche@unil.ch">right here</a>
 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my only real skill is googling
+- ⚡ Fun fact: my true skill is googling
 
 <!---
 legabgob/legabgob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
